@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1c48cf5-ecc7-4ab0-9339-c2822498d9af" name="Default" comment="删除Decode类">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1c48cf5-ecc7-4ab0-9339-c2822498d9af" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -150,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558006937293</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改Test">
+      <created>1558007312731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558007312731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -216,7 +221,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="删除Decode类" />
     <MESSAGE value="添加Test类" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加Test类" />
+    <MESSAGE value="修改Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
